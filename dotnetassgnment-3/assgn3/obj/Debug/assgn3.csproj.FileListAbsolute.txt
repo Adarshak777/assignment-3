@@ -1,0 +1,8 @@
+C:\c#.net\c#\assgn3\assgn3\assgn3\obj\Debug\assgn3.csproj.AssemblyReference.cache
+C:\c#.net\c#\assgn3\assgn3\assgn3\obj\Debug\assgn3.csproj.SuggestedBindingRedirects.cache
+C:\c#.net\c#\assgn3\assgn3\assgn3\obj\Debug\assgn3.csproj.CoreCompileInputs.cache
+C:\c#.net\c#\assgn3\assgn3\assgn3\bin\Debug\assgn3.exe.config
+C:\c#.net\c#\assgn3\assgn3\assgn3\bin\Debug\assgn3.exe
+C:\c#.net\c#\assgn3\assgn3\assgn3\bin\Debug\assgn3.pdb
+C:\c#.net\c#\assgn3\assgn3\assgn3\obj\Debug\assgn3.exe
+C:\c#.net\c#\assgn3\assgn3\assgn3\obj\Debug\assgn3.pdb
